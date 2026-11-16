@@ -1,0 +1,49 @@
+:root{
+    --cor-principal:#a0b2e4;
+}
+
+body {
+    font-family: 'Times New Roman', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: var(--cor-principal);
+    }
+    
+.jogo {
+    background-color: rgb(219, 196, 181);
+    padding: 30px;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 500px;
+    text-align: center;
+    box-shadow: 1px 2px 6px rgb(85, 85, 194);
+}
+
+#palavra {
+    font-size: 2rem;
+    letter-spacing: 8px;
+    margin: 30px 0;
+}
+
+input {
+    width: 50px;
+    padding: 10px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+button {
+    padding: 10px 16px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+
+    background-color: #cbadf1;
+    text-decoration: none;
+    color: rebeccapurple;
+    box-shadow: 1px 2px 6px rgb(146, 103, 128);
+}
