@@ -19,4 +19,4 @@ tentativas.
 - Reinício da partida
 
 ## Link do jogo
-Cole aqui o endereço do GitHub Pages depois de publicar.
+(https://xxalanax.github.io/web1-jogo-palavras./)
